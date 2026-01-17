@@ -51,7 +51,8 @@ The goal was to understand sales performance, customer behavior (segments), and 
 - Profit by market × segment
 - Year-wise and market-wise profit trends
 
-**SQL file:** /sql/sql_queries.sql
+[View SQL queries](sql/sql_queries.sql)
+
 ---
 
 ## Power BI Dashboard
