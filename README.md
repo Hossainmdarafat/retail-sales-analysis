@@ -62,8 +62,7 @@ Built a simple interactive dashboard to visualize:
 - **Year slicer** for filtering (2011–2014)
 
 **Power BI file:** `/powerbi/`  
-**Screenshot:** `/screenshots/powerbi_dashboard.png`
-
+![Power BI Dashboard](screenshot/powerbi_dashboard.png)
 ---
 
 ## Key Insights (Example)
