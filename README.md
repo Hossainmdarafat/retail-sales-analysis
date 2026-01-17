@@ -33,7 +33,7 @@ The goal was to understand sales performance, customer behavior (segments), and 
 - Pivot Chart: Visualized segment-wise profitability by market
 - Timeline filter: Year-based analysis (similar to dashboard filtering)
 
-![Excel Pivot Table and Chart](screenshots/excel_pivot_profit_by_market_segment.png)
+![Excel Pivot Table and Chart](screenshot/excel_pivot_profit_by_market_segment.png)
 
 ---
 
