@@ -51,8 +51,7 @@ The goal was to understand sales performance, customer behavior (segments), and 
 - Profit by market × segment
 - Year-wise and market-wise profit trends
 
-**SQL file:** `/sql/sql_queries.sql`
-
+**SQL file:** /sql/sql_queries.sql
 ---
 
 ## Power BI Dashboard
@@ -68,7 +67,6 @@ Built a simple interactive dashboard to visualize:
 ## Key Insights (Example)
 - Consumer segment produced the highest overall profit.
 - APAC and EU markets showed strong profitability.
-- Some segments/markets had negative profit, indicating loss-making orders that require investigation.
 
 ---
 
