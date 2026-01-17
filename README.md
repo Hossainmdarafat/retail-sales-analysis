@@ -61,9 +61,17 @@ Built a simple interactive dashboard to visualize:
 - **Profit by Segment**
 - **Year slicer** for filtering (2011–2014)
 
-**Power BI file:** `/powerbi/`  
+ 
 ![Power BI Dashboard](screenshot/powerbi_dashboard.png)
 ---
+
+## Sales Insights & Recommendations
+
+- Sales peaked during the later years of the dataset (2013–2014), indicating strong growth momentum.
+- Lower sales were observed in the early years, particularly in 2011.
+- The company should analyze strategies used during high-sales periods and replicate them across weaker markets or segments.
+- Seasonal and year-based trends can be leveraged for better sales forecasting and planning.
+
 
 ## Key Insights (Example)
 - Consumer segment produced the highest overall profit.
@@ -72,9 +80,11 @@ Built a simple interactive dashboard to visualize:
 ---
 
 ## How to Use
-1. Open the Power BI report (`.pbix`) from `/powerbi/`
-2. Use the Year slicer to filter results
-3. Review SQL queries in `/sql/sql_queries.sql`
+
+- Open the Power BI report (`.pbix`) from the `/powerbi` folder.
+- Use the Year slicer to filter and explore results across different years.
+- Review the SQL queries used for analysis in `/sql/sql_queries.sql`.
+
 
 ---
 
